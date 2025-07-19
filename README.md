@@ -1,4 +1,4 @@
- # CC Basket - Online Delivery System
+ # CC Basket PES UNIVERSITY - Online Delivery System
 ![system requirements](https://img.shields.io/badge/g%2B%2B%20Version-7.4.0-red)
 ![system requirements](https://img.shields.io/badge/Python-3.6.8-orange)
 ![system requirements](https://img.shields.io/badge/OS-Ubuntu%2018.04.1-yellow)
@@ -9,9 +9,8 @@
 ![2022](https://img.shields.io/badge/Batch-2022-blue)
 ![Status](https://img.shields.io/badge/Status-Completed-pink)
 
-This project was developed as a course project under **_Dr. Anand Mishra_**, instructor, **_Object Oriented Analysis and Design_** Course. This project encouraged us to expand our horizon on understanding and applying object oriented analysis and design in real life applications. It also helped us in understanding various complexities and challanges involved in software development.
+This project was developed as a course project under, instructor, **_Object Oriented Analysis and Design_** Course. This project encouraged us to expand our horizon on understanding and applying object oriented analysis and design in real life applications. It also helped us in understanding various complexities and challanges involved in software development.
 ## Problem Statement
-The _Community Centre_ of IIT Jodhpur is far for a walk from the student hostels and faculty residence. This makes it very difficult to go and shop for daily needs especially in the scorching heat of Rajasthan. 
 An **online delivery system** needs to be developed. The potential customers of this delivery system are the students and faculty members. There has to be online search of products and the customer should be able to perform **online shopping**. There will be various options available to the customers for completing the **payment**- cash on delivery(**_CoD_**) or **credit** system. 
 ## Proposed Solution
 We have tried to implement the online delivery system through concepts of Object Oriented Programming like **modularity**, **abstraction**, **encapsulation** and **generalisation**.
@@ -211,8 +210,3 @@ To check installation use, on successfull installation it prints nothing
 ```bash
 python3 -c "import json"
 ```
-## Contributors of the Project
-+ [Nivedit Jain](https://github.com/NiveditJain) (B18CSE039)
-+ [Nagamalla Rohith](https://github.com/rohith-nagamalla) (B18CSE065)
-+ [Muskan Bathla](https://github.com/MuskanBathla) (B18CSE036)
-+ [Kumar Pradumn](https://github.com/kumar0912) (B18CSE024)
