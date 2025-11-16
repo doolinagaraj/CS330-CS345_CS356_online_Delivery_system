@@ -92,7 +92,7 @@ Code is written on a Linux Machine, (**ubuntu 18.04**), and we have used various
 
 Clone into repository
 ```batch
-git clone https://github.com/NiveditJain/Ooad_project    
+git clone https://github.com/doolinagaraj/CS330-CS345_CS356_online_Delivery_system
 ```
 Navigate into repository
 ```batch
@@ -210,3 +210,4 @@ To check installation use, on successfull installation it prints nothing
 ```bash
 python3 -c "import json"
 ```
+
