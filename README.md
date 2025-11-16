@@ -5,8 +5,6 @@
 ![OOAD Project](https://img.shields.io/badge/Project-OOAD-yellowgreen)
 ![C++](https://img.shields.io/badge/Language-C%2B%2B-orange)
 ![build passing](https://api.travis-ci.org/klugjo/hexo-autolinker.svg?branch=master)
-![IITJ](https://img.shields.io/badge/Institute-IITJ-yellow)
-![2022](https://img.shields.io/badge/Batch-2022-blue)
 ![Status](https://img.shields.io/badge/Status-Completed-pink)
 
 This project was developed as a course project under, instructor, **_Object Oriented Analysis and Design_** Course. This project encouraged us to expand our horizon on understanding and applying object oriented analysis and design in real life applications. It also helped us in understanding various complexities and challanges involved in software development.
@@ -210,4 +208,5 @@ To check installation use, on successfull installation it prints nothing
 ```bash
 python3 -c "import json"
 ```
+
 
